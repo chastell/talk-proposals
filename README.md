@@ -1,11 +1,9 @@
-Talk proposals
-==============
+# Talk proposals
 
 Various talks I’d love to give (linked
 to slides/videos if given in the past).
 
-Persist, Little Objects!
-------------------------
+## Persist, Little Objects!
 
 Object persistence in Ruby is a tricky subject – everyone knows how
 to do it (‘simply use an ORM, plug it into a relational database and
@@ -22,8 +20,7 @@ true cross-process transparent object persistence.
 
 
 
-Going Clean and Simple with minitest/spec
------------------------------------------
+## Going Clean and Simple with minitest/spec
 
 The Ruby community is known for praising well-tested code, with
 a lot of projects being developed in a test- (or spec-) driven
@@ -37,8 +34,7 @@ world of asserting algorithmic performance with minitest/benchmark.
 
 
 
-Ruby on the Command-Line
-------------------------
+## Ruby on the Command-Line
 
 Ruby, thanks to its various frameworks, is known to be *the*
 language for web applications – and recent developments in graphic
@@ -55,8 +51,7 @@ like exit codes and signal/interrupt handling.
 
 
 
-REST, Assured
--------------
+## REST, Assured
 
 Since its first appearance – eleven years ago – REST has grown from
 being a chapter in a PhD dissertation into a widely accepted best
@@ -79,8 +74,11 @@ talk about HATEOAS and 100% REST compliance via hypermedia controls.
 
 
 
-Persisting Relations Across Time and Space
-------------------------------------------
+## Persisting Relations Across Time and Space
+
+**Given at RubyConf 2011, New Orleans**
+([slides](http://persistence-rubyconf-2011.heroku.com),
+[video](http://confreaks.net/videos/657)).
 
 Entities and their relations are the backbone of most Ruby
 applications – from trivial, one-off commandline utilities
@@ -100,14 +98,17 @@ Quite a few interesting Ruby libraries for gluing all this together
 are also pondered upon – from world-class champions like Active
 Record and ARel to less known gems like Candy and Ambition.
 
-Given at RubyConf 2011, New Orleans
-([slides](http://persistence-rubyconf-2011.heroku.com),
-[video](http://confreaks.net/videos/657)).
 
 
+## From Profiling Ruby to Frankenstein Programming
 
-From Profiling Ruby to Frankenstein Programming
------------------------------------------------
+**Given at EuRuKo 2010, Cracow**
+([slides](http://profiling-ruby-euruko-2010.heroku.com)),
+**Ruby and Rails 2010, Amsterdam**
+([slides](http://profiling-ruby-rar-2010.heroku.com))
+and **Scottish Ruby Conference 2011, Edinburgh**
+([slides](http://profiling-ruby-src-2011.heroku.com),
+[video](http://confreaks.net/videos/547)).
 
 Ruby is ‘known to be slow’ – but what does that exactly mean, does
 it really matter, and – more importantly – what can we do about this?
@@ -118,18 +119,9 @@ scientific computations, shows how to profile Ruby applications
 with the bottlenecks – from algorithmic optimisation through using
 dedicated libraries to rewriting them (in place!) in ‘faster’ languages.
 
-Given at EuRuKo 2010, Cracow
-([slides](http://profiling-ruby-euruko-2010.heroku.com)),
-Ruby and Rails 2010, Amsterdam
-([slides](http://profiling-ruby-rar-2010.heroku.com))
-and Scottish Ruby Conference 2011, Edinburgh
-([slides](http://profiling-ruby-src-2011.heroku.com),
-[video](http://confreaks.net/videos/547)).
 
 
-
-Bio
----
+## Bio
 
 Piotr Szotkowski is an assistant professor at Warsaw University of
 Technology (where he happily sneaks Ruby, EventMachine and newfangled
