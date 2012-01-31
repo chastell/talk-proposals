@@ -126,7 +126,14 @@ dedicated libraries to rewriting them (in place!) in ‘faster’ languages.
 Piotr Szotkowski is an assistant professor at Warsaw University of
 Technology (where he happily sneaks Ruby, EventMachine and newfangled
 database systems into the creaking world of twentieth-century academia),
-a Ruby developer at [Rebased](http://rebased.pl), an alumnus of
-[Mendicant University](http://university.rubymendicant.com) and
-a long-time contributor to various open source projects for the
-civic sector.
+a Ruby developer at [Rebased](http://rebased.pl) and an alumnus of
+[Mendicant University](http://university.rubymendicant.com). He’s
+also a long-time contributor to various open source projects for
+the civic sector and co-organiser of [NetWtorek](http://netwtorek.pl)
+– monthly [NetTuesday](http://netsquared.org/share/meetup)
+meetings of people from the NGO/non-profit and IT sectors,
+as well as [SocHack](http://sochack.pl) – quarterly 48-hour
+hackatons for worthy causes, in coordination with [Random
+Hacks of Kindness](http://www.rhok.org), [Open Data
+Day](http://www.opendataday.org) and [Open Education
+Week](http://www.openeducationweek.org).
