@@ -79,17 +79,16 @@ like exit codes and signal/interrupt handling.
 
 ## REST, Assured
 
-Since its first appearance – eleven years ago – REST has grown from
-being a chapter in a PhD dissertation into a widely accepted best
-practice when it comes to designing and implementing remote APIs.
-In the Ruby world REST started achieving wide recognition four
-years ago, and its adoption grew significantly with every subsequent
-Rails release (1.2 through 2.0 to 3.0) – and yet all over the
-web you can hear grumpy voices remarking that most services aren’t
-*really* RESTful, just *kinda* RESTful, that doing CRUD on resources
-via HTTP verbs is a nice starting point, but definitely isn’t
-enough, and if you have API tokens in your headers or ‘v1’ and
-‘v2’ versioning in your URLs then you’re still doing it wrong.
+Since its first appearance – eleven years ago – REST has grown
+from being a PhD dissertation into a widely accepted best practice
+when it comes to designing and implementing remote APIs. In the
+Ruby world REST started achieving wide recognition four years ago,
+and its adoption grew significantly with every subsequent Rails
+release – and yet all over the web you can hear grumpy voices
+remarking that most services aren’t *really* RESTful, just *kinda*
+RESTful, that doing CRUD on resources via HTTP verbs is a nice
+starting point, but definitely isn’t enough, and that JSON is
+a nice format, but lacks hypermedia vocabulary.
 
 This talk, while briefly refreshing REST basics, concentrates on
 the more advanced (as in: not provided by Rails out-of-the-box)
