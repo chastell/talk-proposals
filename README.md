@@ -29,6 +29,8 @@ and potential vices (performance? perceived compexity? YAGNI?).
 
 ## Persist, Little Objects!
 
+**Accepted to wroc_love.rb 2012, Wrocław**
+
 Object persistence in Ruby is a tricky subject – everyone knows how
 to do it (‘simply use an ORM, plug it into a relational database and
 you’re done!’), most know the drawbacks (‘well, sure, you need to use
