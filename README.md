@@ -62,13 +62,13 @@ world of asserting algorithmic performance with minitest/benchmark.
 
 ## Ruby on the Command-Line
 
-Ruby, thanks to its various frameworks, is known to be *the*
-language for web applications – and recent developments in graphic
-libraries make it a worthy contestant in the world of GUI-driven
-desktop programs. But Ruby is also great for writing command-line
-applications; the ability to mix no-boilerplate toplevel functions
-with full-fledged OOP means its usage can vary from one-off
-trivial scripts to complicated, option-heavy
+Ruby, thanks to its various frameworks, is known to be *the* language
+for web applications – and recent developments in graphic libraries
+make it a worthy contestant in the world of GUI-driven desktop
+programs. But Ruby is also great for writing command-line applications;
+the ability to mix no-boilerplate toplevel functions with full-fledged
+OOP means its usage can vary from one-off trivial scripts to
+complicated, option-heavy commandline powerhouses.
 
 This talk presetens the nits and bolts of writing a command-line
 application with Ruby – from option parsing and accessing
