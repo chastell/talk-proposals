@@ -7,6 +7,8 @@ to slides/videos if given in the past).
 
 ## Decoupling Persistence (Like There’s Some Tomorrow)
 
+**Accepted to wroc_love.rb 2012, Wrocław**
+
 _When I open up a Rails project and the models dir is full of 100%
 ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
 
@@ -28,8 +30,6 @@ and potential vices (performance? perceived compexity? YAGNI?).
 
 
 ## Persist, Little Objects!
-
-**Accepted to wroc_love.rb 2012, Wrocław**
 
 Object persistence in Ruby is a tricky subject – everyone knows how
 to do it (‘simply use an ORM, plug it into a relational database and
