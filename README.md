@@ -7,7 +7,8 @@ to slides/videos if given in the past).
 
 ## Decoupling Persistence (Like There’s Some Tomorrow)
 
-**Accepted to wroc_love.rb 2012, Wrocław**
+**Given at wroc_love.rb 2012, Wrocław**
+([slides](http://decoupling-wrocloverb-2012.heroku.com)).
 
 _When I open up a Rails project and the models dir is full of 100%
 ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
