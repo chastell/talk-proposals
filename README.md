@@ -13,13 +13,12 @@ to slides/videos if given in the past).
 _When I open up a Rails project and the models dir is full of 100%
 ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
 
-From DCI to presenters, from Uncle Bob’s
-[architecture talk](http://confreaks.com/videos/759)
-and Avdi Grimm’s upcoming [_Objects on
-Rails_](http://avdi.org/devblog/2011/11/15/early-access-beta-of-objects-on-rails-now-available-2/)
-book to the proliferation of (competing? complementing?) database
-systems, it seems the time has come to seriously consider decoupling
-our objects’ persistence from the rest of the application.
+From DCI to presenters, from Uncle Bob’s [architecture
+talk](http://confreaks.com/videos/759) and Avdi Grimm’s
+[_Objects on Rails_](http://objectsonrails.com) book to
+the proliferation of (competing? complementing?) database
+systems, it seems the time has come to seriously consider
+decoupling our objects’ persistence from the rest of the application.
 
 This talk – after describing the general vices of strong object/database
 coupling and the all-too-usual `rails g model`-driven development
