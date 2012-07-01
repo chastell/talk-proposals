@@ -24,6 +24,23 @@ true cross-process transparent object persistence.
 
 
 
+## C-C-C-Combo Maker
+
+Ruby is a wonderful high-level lanuguage for expressing ideas and
+algorithms, but even after the rewriting it umpteen times the most
+sophisticated algorithm can be a CPU-bound bottleneck. Similarly,
+accessing (especially custom) system devices straight from Ruby is
+usually doable, but easier via the provided C drivers.
+
+This talk, based on experience with algorithm optimisation and
+custom device drivers gained when working at the Warsaw University
+of Technology, shows how easy it is to marry Ruby and C – from writing
+MRI-targeting C extensions, through building a proper FFI-oriented
+wrapper, to rewriting crucial – and yet, slow – parts of your codebase
+in C using RubyInline, without leaving the Ruby method.
+
+
+
 ## Going Clean and Simple with minitest/spec
 
 The Ruby community is known for praising well-tested code, with
