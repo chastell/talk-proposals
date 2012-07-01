@@ -5,33 +5,6 @@ to slides/videos if given in the past).
 
 
 
-## Decoupling Persistence (Like There’s Some Tomorrow)
-
-**Given at wroc_love.rb 2012, Wrocław**
-([slides](http://decoupling-wrocloverb-2012.heroku.com),
-[video](https://www.youtube.com/watch?v=w7Eol9N3jGI))
-and **Scottish Ruby Conference 2012, Edinburgh**
-([slides](http://talks.chastell.net/src-2012)).
-
-_When I open up a Rails project and the models dir is full of 100%
-ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
-
-From DCI to presenters, from Uncle Bob’s [architecture
-talk](http://confreaks.com/videos/759) and Avdi Grimm’s
-[_Objects on Rails_](http://objectsonrails.com) book to
-the proliferation of (competing? complementing?) database
-systems, it seems the time has come to seriously consider
-decoupling our objects’ persistence from the rest of the application.
-
-This talk – after describing the general vices of strong object/database
-coupling and the all-too-usual `rails g model`-driven development
-– covers the various approaches to separating the objects’ persistence
-layer, along with their virtues (cleaner, simpler tests! backend
-independence! no RDBMS-related shortcuts impacting the design!)
-and potential vices (performance? perceived compexity? YAGNI?).
-
-
-
 ## Persist, Little Objects!
 
 **Accepted to Arrrrcamp 2012, Ghent.**
@@ -101,6 +74,33 @@ REST ‘features’ and current best practices – explaining why it’s
 beneficial to have a discoverable REST design, how to sanely do
 API versioning and authentication, and what’s with all this recent
 talk about HATEOAS and 100% REST compliance via hypermedia controls.
+
+
+
+## Decoupling Persistence (Like There’s Some Tomorrow)
+
+**Given at wroc_love.rb 2012, Wrocław**
+([slides](http://decoupling-wrocloverb-2012.heroku.com),
+[video](https://www.youtube.com/watch?v=w7Eol9N3jGI))
+and **Scottish Ruby Conference 2012, Edinburgh**
+([slides](http://talks.chastell.net/src-2012)).
+
+_When I open up a Rails project and the models dir is full of 100%
+ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
+
+From DCI to presenters, from Uncle Bob’s [architecture
+talk](http://confreaks.com/videos/759) and Avdi Grimm’s
+[_Objects on Rails_](http://objectsonrails.com) book to
+the proliferation of (competing? complementing?) database
+systems, it seems the time has come to seriously consider
+decoupling our objects’ persistence from the rest of the application.
+
+This talk – after describing the general vices of strong object/database
+coupling and the all-too-usual `rails g model`-driven development
+– covers the various approaches to separating the objects’ persistence
+layer, along with their virtues (cleaner, simpler tests! backend
+independence! no RDBMS-related shortcuts impacting the design!)
+and potential vices (performance? perceived compexity? YAGNI?).
 
 
 
