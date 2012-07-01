@@ -9,8 +9,9 @@ to slides/videos if given in the past).
 
 **Given at wroc_love.rb 2012, Wrocław**
 ([slides](http://decoupling-wrocloverb-2012.heroku.com),
-[video](https://www.youtube.com/watch?v=w7Eol9N3jGI)),
-**accepted to Scottish Ruby Conference 2012, Edinburgh.**
+[video](https://www.youtube.com/watch?v=w7Eol9N3jGI))
+and **Scottish Ruby Conference 2012, Edinburgh**
+([slides](http://talks.chastell.net/src-2012)).
 
 _When I open up a Rails project and the models dir is full of 100%
 ActiveRecord classes I shudder. Model ≠ Persistence._ — Ben Mabey
